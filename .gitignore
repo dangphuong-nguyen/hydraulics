@@ -1,0 +1,5 @@
+data/FS1.txt
+data/PS2.txt
+data/profile.txt
+models/embeddings.pkl
+models/model.pkl
