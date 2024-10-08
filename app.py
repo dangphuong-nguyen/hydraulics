@@ -71,7 +71,9 @@ if __name__ == '__main__':
             'max_depth': 3,
             'random_state': 0,
             'learning_rate': 0.7,
-            'subsample': 0.9        
+            'subsample': 0.7,
+            'min_samples_split': 20,
+            'min_samples_leaf': 20     
         },
         're_train': False,
         're_balancing_features': True
